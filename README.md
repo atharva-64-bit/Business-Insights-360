@@ -61,7 +61,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Supply-Chain-View.pdf)_
+    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/atharva-64-bit/Business-Insights-360/blob/main/SupplyChain-View.pdf)_
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
